@@ -55,7 +55,7 @@
       🎯 I blend creativity with logic to solve real-world problems, breaking complex ideas into elegant solutions. <br><br>
       🧠 Outside of coding, I love exploring new knowledge through reading, workshops, and engaging with the tech community. <br><br>
       🌍 I'm committed to making a positive impact and enjoy collaborating with like-minded individuals. <br><br>
-      📫 Feel free to reach out at <strong>your-email@gmail.com</strong> or connect on <strong>LinkedIn</strong> to chat about tech trends or opportunities. <br><br>
+      📫 Feel free to reach out at <strong>aakash7536@gmail.com</strong> or connect on <strong>LinkedIn</strong> to chat about tech trends or opportunities. <br><br>
       🎉 Fun fact: I enjoy <strong>strategic games</strong> and exploring <strong>new hobbies</strong> that challenge my thinking.
     </p>
 
