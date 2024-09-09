@@ -3,7 +3,7 @@
   <!-- Semi-transparent overlay -->
   <div style="background: rgba(0, 0, 0, 0.6); padding: 20px; border-radius: 10px;">
     <h1 align="center">Hi 👋, I'm Akash</h1>
-    <h3 align="center">A passionate full-stack developer from India</h3>
+    <h3 align="center">A passionate full-stack developer </h3>
     <p align="center">
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="working-on-computer" width="100" />
     </p>
