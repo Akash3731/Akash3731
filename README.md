@@ -11,12 +11,9 @@
 </div>
 
 <h3 align="center">
-  💻 Full-Stack Developer | 🌐 MERN Stack Specialist | 🤖 IoT Enthusiast
+  💻 Full-Stack Developer | 🌐 MERN Stack 
 </h3>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak"/>
-</div>
 
 ---
 
