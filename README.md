@@ -29,17 +29,7 @@
 - 📫 Reach me at **aakash7536@gmail.com**
 - ⚡ Fun fact: I enjoy strategic games and exploring new hobbies that challenge my thinking
 
-### 💡 Core Competencies
 
-```javascript
-const skills = {
-    frontend: ['React.js', 'JavaScript', 'Tailwind CSS'],
-    backend: ['Node.js', 'Express.js', 'Python'],
-    databases: ['MongoDB', 'MySQL', 'Firebase'],
-    devOps: ['Jenkins', 'Git', 'Docker'],
-    other: ['C++', 'Arduino', 'IoT Development']
-};
-```
 
 ### 🛠️ Tech Stack
 
