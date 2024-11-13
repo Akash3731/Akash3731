@@ -1,84 +1,99 @@
-<!-- Semi-transparent overlay -->
-<div style="background: rgba(0, 0, 0, 0.6); padding: 20px; border-radius: 10px;">
-  <h1 align="center">Hi 👋, I'm Akash</h1>
-  <h3 align="center">A passionate full-stack developer </h3>
-  <p align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="working-on-computer" width="100" />
-  </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Akash+Kamble;Welcome+to+my+Profile!&center=true&size=30">
+</h1>
 
-  ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
+</p>
 
-  <h3 align="center" style="color: white;">🛠️ Languages and Tools:</h3>
-  <p align="center">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" style="margin: 10px;" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" style="margin: 10px;" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" style="margin: 10px;" />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" style="margin: 10px;" />
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60" style="margin: 10px;" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60" style="margin: 10px;" />
-    </a>
-    <a href="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="iot" width="60" height="60" style="margin: 10px;" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60" style="margin: 10px;" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60" style="margin: 10px;" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" style="margin: 10px;" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" style="margin: 10px;" />
-    </a>
-    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60" style="margin: 10px;" />
-    </a>
-  </p>
-
-  ---
-  
-  <h3 align="center" style="color: white;">👨‍💻 About Me:</h3>
-  <p align="center" style="max-width: 800px; margin: 0 auto;">
-    🌟 I'm a passionate full-stack developer who thrives on challenges and continuous learning. My journey in technology is driven by curiosity and a desire to create impactful solutions. <br><br>
-    🎯 I blend creativity with logic to solve real-world problems, breaking complex ideas into elegant solutions. <br><br>
-    🧠 Outside of coding, I love exploring new knowledge through reading, workshops, and engaging with the tech community. <br><br>
-    🌍 I'm committed to making a positive impact and enjoy collaborating with like-minded individuals. <br><br>
-    📫 Feel free to reach out at <strong>aakash7536@gmail.com</strong> or connect on <strong>LinkedIn</strong> to chat about tech trends or opportunities. <br><br>
-    🎉 Fun fact: I enjoy <strong>strategic games</strong> and exploring <strong>new hobbies</strong> that challenge my thinking.
-  </p>
-
-  <p align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="400" />
-  </p>
-
-  ---
-
-  <h3 align="center" style="color: white;">📫 Connect with Me:</h3>
-  <p align="center">
-    <a href="https://linkedin.com/in/akash-kamble-3874091a3/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-    <a href="mailto:aakash7536@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="30" width="40" /></a>
-  </p>
-
-  ---
-
-  <p align="center">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif" width="400" />
-  </p>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="bottom"/>
-  </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+<h3 align="center">
+  💻 Full-Stack Developer | 🌐 MERN Stack Specialist | 🤖 IoT Enthusiast
+</h3>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 🚀 Quick Overview
+
+- 🔭 I'm currently working on **Full-Stack Web Applications**
+- 🌱 I'm exploring **Cloud Architecture & DevOps**
+- 👯 Open to collaborate on **Innovative Projects**
+- 💬 Ask me about **MERN Stack, IoT, and System Architecture**
+- 📫 Reach me at **aakash7536@gmail.com**
+- ⚡ Fun fact: I enjoy strategic games and exploring new hobbies that challenge my thinking
+
+### 💡 Core Competencies
+
+```javascript
+const skills = {
+    frontend: ['React.js', 'JavaScript', 'Tailwind CSS'],
+    backend: ['Node.js', 'Express.js', 'Python'],
+    databases: ['MongoDB', 'MySQL', 'Firebase'],
+    devOps: ['Jenkins', 'Git', 'Docker'],
+    other: ['C++', 'Arduino', 'IoT Development']
+};
+```
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins"/>
+</p>
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark"/>
+</p>
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/akash-kamble-3874091a3">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aakash7536@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+### 🎯 Professional Journey
+
+```mermaid
+graph LR
+    A[Full Stack Development] --> B[MERN Stack]
+    B --> C[Cloud & DevOps]
+    C --> D[IoT & Embedded Systems]
+    style A fill:#2E394A
+    style B fill:#2E394A
+    style C fill:#2E394A
+    style D fill:#2E394A
+```
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="bottom"/>
+</p>
