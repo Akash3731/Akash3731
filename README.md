@@ -53,19 +53,6 @@
   </a>
 </p>
 
-### 🎯 Professional Journey
-
-```mermaid
-graph LR
-    A[Full Stack Development] --> B[MERN Stack]
-    B --> C[Cloud & DevOps]
-    C --> D[IoT & Embedded Systems]
-    style A fill:#2E394A
-    style B fill:#2E394A
-    style C fill:#2E394A
-    style D fill:#2E394A
-```
-
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
